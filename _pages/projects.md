@@ -6,7 +6,8 @@ toc: true
 ---
 
 Aquí encontrarás mis automatizaciones (resumen + video + resultados):
-- **Automatización Reportes SAR** — ahorro de horas/semana por ingeniero.
+
+- **Automatización Reportes ESSAR** — eliminando el cuello de botella en reportes.
 - **WhatsApp Transcriber (audio→texto)** — base para resúmenes con IA.
 - **Text-to-Speech (TTS)** — audiolibros para gym/hiking.
 - **Imagen: remover fondo / convertir formatos** — utilidad para equipos de diseño.
