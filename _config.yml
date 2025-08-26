@@ -3,10 +3,17 @@ description: "Portfolio de automatizaciones (Python + IA) y gestión de proyecto
 url: "https://arndev10.github.io"
 baseurl: "/arn-dev-portfolio"
 locale: es
+
+theme: null
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
 include: ["_pages"]
