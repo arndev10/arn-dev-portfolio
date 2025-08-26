@@ -1,0 +1,16 @@
+:root{
+  --brand-1:#2c4670;
+  --brand-2:#2c456f;
+  --brand-3:#49487a;
+  --brand-4:#4b497b;
+  --brand-5:#48487a;
+  --brand-6:#4d4a7c;
+  --brand-7:#4f4b7d;
+  --brand-8:#514c7e;
+}
+
+/* Ajustes simples sobre el skin dark */
+a, .page__content a { color: var(--brand-3); }
+.site-title, .page__title { color: var(--brand-4); }
+.btn, .btn--primary { background: var(--brand-3); border-color: var(--brand-3); }
+.nav__list a:hover { color: var(--brand-2); }
