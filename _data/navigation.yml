@@ -1,0 +1,7 @@
+main:
+  - title: "Proyectos"
+    url: /projects/
+  - title: "Videos/Demos"
+    url: /demos/
+  - title: "Contacto"
+    url: /contact/
