@@ -1,0 +1,12 @@
+title: "ArnDev — PM | Automation | AI"
+description: "Portfolio de automatizaciones (Python + IA) y gestión de proyectos."
+url: "https://arndev10.github.io"
+baseurl: "/arn-dev-portfolio"
+locale: es
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-remote-theme
+
+minimal_mistakes_skin: "dark"
+include: ["_pages"]
